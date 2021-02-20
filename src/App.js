@@ -13,6 +13,6 @@ function App() {
       {/* INdividual chat screen */}
     </div>
   );
-}n
+}
 
 export default App;

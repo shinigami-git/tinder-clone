@@ -1,9 +1,14 @@
-import React from 'react'
+import React from 'react';
+import PersonIcon from '@material-ui/icons/Person';
+import ForumIcon from '@material-ui/icons/Forum';
+import "./header.css"
 
 const Header = () => {
     return (
-        <div>
-            <h1>I'm Header</h1>
+        <div className="header">
+            <PersonIcon/>
+            <h2>Header part i.e Tinder logo goes here</h2>
+            <ForumIcon/>
         </div>
     )
 }
