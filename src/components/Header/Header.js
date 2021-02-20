@@ -7,7 +7,7 @@ const Header = () => {
     return (
         <div className="header">
             <PersonIcon/>
-            <h2>Header part viz Tinder logo goes here</h2>
+            <h2>Header part i.e Tinder logo goes here</h2>
             <ForumIcon/>
         </div>
     )
